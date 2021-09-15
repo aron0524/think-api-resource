@@ -7,5 +7,5 @@ API Resources Converter for ThinkPHP.
 Composer
 
 ```shell
-$ composer require inna/think-api-resource
+$ composer require yuanbo/think-api-resource
 ```
